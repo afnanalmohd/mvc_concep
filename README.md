@@ -1,16 +1,8 @@
 # mvc_concep
 
-A new Flutter project.
+this sample code describe the MVC architectural pattern with Obx.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Photos:
+<img width="200" alt="Screenshot 1444-07-08 at 11 56 05 AM" src="https://user-images.githubusercontent.com/53023171/215432570-3e19a40c-9272-4b6a-8bbc-95fc50a82a0e.png">
+<img width="200" alt="Screenshot 1444-07-08 at 11 59 13 AM" src="https://user-images.githubusercontent.com/53023171/215432569-0ba750a2-0fa7-4646-aa6a-9e47976d8f0b.png">
+<img width="200" alt="Screenshot 1444-07-08 at 11 59 20 AM" src="https://user-images.githubusercontent.com/53023171/215432575-4e98a36f-0d1b-4a83-adf3-58e31c89da45.png">
