@@ -28,7 +28,7 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 <br>
 
 
-## 🚀  Getting Started  mbshir 
+## 🚀  Getting Started  
 
 Before installing , make sure you have the following prerequisites installed:
 
