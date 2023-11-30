@@ -15,26 +15,6 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 <br>
 
 
-## 🗺️ Contents
-
-**Material Components** are a collection of UI widgets and design guidelines, divided into **six components**:
-</b></b>
-
-- [Actions](#action) : Interactive elements which trigger actions when clicked .
-- [Communication](#communication) : Used to convey information to the user.
-- [Containment](#containment) : Components for grouping in defined area.
-- [Navigation](#navigation) : User movement within the application.
-- [Selection](#selection) : That allow users to make decisions .
-- [Text Inputs](#text_inputs) :Elements for entering text .
-
-
-
-
-<br>
-
-</br>
-
-
 
 
 ## ✨ Features
@@ -144,9 +124,12 @@ mbshir
 <img width="1717" alt="Screenshot 1445-03-27 at 3 03 59 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/0b438fa2-3fdf-4f06-92e0-d027677c7153">
 
 
-## 🦸‍♀️  SuperHero team   
-     
- - Khairiah Alayyafi،
+## 🦸‍♀️  SuperHero Mobile Team  
+
+      **QR Reader**
+     Khairiah Alayyafi،
+
+   **Team**
  -  Hanan Asiri.
  -  Razan Ajohani.
  -  Joud Almahdi.
