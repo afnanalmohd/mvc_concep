@@ -21,13 +21,6 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 
 ✔ Authentication Implement user signup and  resetting the password.
 
-✔ Display all order statuses, such as 'paid,'and  'prepared'.
-
-✔ Display the menu  and allow users to create custom orders.
-
-✔ Display all requests with a timer up to 5 minutes .
-
-✔ settings, user can change the language, display notifications.
 
 
 
@@ -124,10 +117,9 @@ mbshir
 <img width="1717" alt="Screenshot 1445-03-27 at 3 03 59 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/0b438fa2-3fdf-4f06-92e0-d027677c7153">
 
 
-## 🦸‍♀️  SuperHero Mobile Team  
-
-        **Scrum Master**
-     Khairiah Alayyafi،
+## 🦸‍♀️  SuperHerE Team
+  
+    
    **Team**
  -  Hanan Asiri.
  -  Razan Ajohani.
