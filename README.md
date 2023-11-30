@@ -25,10 +25,7 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 ✔ There are states for scanning, including successful scans, end of event, and close event.
 
 
-
-
-
-
+<br>
 
 
 ## 🚀  Getting Started  mbshir 
