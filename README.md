@@ -118,12 +118,10 @@ mbshir
 
 
 ## 🦸‍♀️  SuperHere Team
-✨ **Scrum Master**✨<br>                    </br> 
-   Khairiah Alayyafi.
-  <br> </br>
-  💫 **Amazing Team**
+        
  -  Hanan Asiri.
  -  Razan Ajohani.
+ -  Khairiah Alayyafi.
  -  Joud Almahdi.
  -  Afnan Almohammdi. 
 
