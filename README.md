@@ -115,8 +115,6 @@ mbshir
 
 ## Demo app
 
-<img width="1416" alt="Screenshot 1445-03-27 at 2 58 51 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/1ddc8626-66b1-43ae-b09c-ab9f6d926b76">
-
 
 
 ## 🦸‍♀️  SuperHere Team
