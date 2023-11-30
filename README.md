@@ -19,8 +19,9 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 
 ## ✨ Features
 
-✔ Authentication Implement user signup and  resetting the password.
-
+✔Authentication by using email addresses.
+✔Display all events on the homepage.
+✔There are states for scanning, including successful scans, end of event, and close event.
 
 
 
@@ -113,14 +114,14 @@ mbshir
 ## Demo app
 
 <img width="1416" alt="Screenshot 1445-03-27 at 2 58 51 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/1ddc8626-66b1-43ae-b09c-ab9f6d926b76">
-<img width="1724" alt="Screenshot 1445-03-27 at 3 03 45 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/8a911666-bec3-43fa-a8ca-51f9a9c298f5">
-<img width="1717" alt="Screenshot 1445-03-27 at 3 03 59 PM" src="https://github.com/afnanalmohd/task_flutterr/assets/53023171/0b438fa2-3fdf-4f06-92e0-d027677c7153">
 
 
-## 🦸‍♀️  SuperHerE Team
-  
-    
-   **Team**
+
+## 🦸‍♀️  SuperHere Team
+✨ **Scrum Master**✨<br>                    </br> 
+   Khairiah Alayyafi.
+  <br> </br>
+  💫 **Amazing Team**
  -  Hanan Asiri.
  -  Razan Ajohani.
  -  Joud Almahdi.
