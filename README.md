@@ -98,12 +98,12 @@ mbshir
 
 | library  |         Usage 
 | :-------- | :------------------------- |
-| <a href="https://pub.dev/packages/get">Getx</a> |  State management , navigation, dependency management |
-| <a href="https://pub.dev/packages/http">http</a> | Highly customizable countdown and onFinished callbacks |
-| <a href="https://pub.dev/packages/stop_watch_timer">Stop Watch Timer</a> | Simple CountUp / CountDown timer |
-| <a href="https://pub.dev/packages/lottie">Lottie</a>| Animations |
-| <a href="https://pub.dev/packages/google_fonts">Google Fonts</a>|  fonts from Google|
-
+| <a href="https://pub.dev/packages/get">Getx</a> |  State management , navigation, dependency management.|
+| <a href="https://pub.dev/packages/get_storage">Get storage</a> | Backs up data to disk. |
+| <a href="https://pub.dev/packages/http">Http</a> | Allow you to make individual HTTP. |
+| <a href="https://pub.dev/documentation/http_interceptor/latest/">Http Interceptor</a>|  intercept the different requests and responses from http |
+| <a href="https://pub.dev/packages/flutter_dotenv"> Dotenv</a>| This library parses that file and merges its values with environment.|
+| <a href="https://pub.dev/packages/qr_code_scanner">QR Code Scanners</a>| QR code scanner that works on both iOS and Android|
 
 
 
