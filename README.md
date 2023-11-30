@@ -126,9 +126,8 @@ mbshir
 
 ## 🦸‍♀️  SuperHero Mobile Team  
 
-      **QR Reader**
+        **Scrum Master**
      Khairiah Alayyafi،
-
    **Team**
  -  Hanan Asiri.
  -  Razan Ajohani.
