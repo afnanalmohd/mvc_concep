@@ -16,12 +16,17 @@ The primary goal of the QR Reader is to scan barcodes and verify event invitatio
 
 
 
-
 ## ✨ Features
 
-✔Authentication by using email addresses.
-✔Display all events on the homepage.
-✔There are states for scanning, including successful scans, end of event, and close event.
+✔ Authentication by using email addresses.
+
+✔ Display all events on the homepage.
+
+✔ There are states for scanning, including successful scans, end of event, and close event.
+
+
+
+
 
 
 
